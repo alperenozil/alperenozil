@@ -1,46 +1,23 @@
+<h1 align="center">Hi 🙋🏽‍♂️, I'm Alperen</h1>
+<h3 align="center">A passionate android developer from Netherlands</h3>
 
-<a href="https://github.com/alperenozil" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=alperenozil&count_private=true&theme=radical" />
-</a>
+- 🔭 I’m currently working on [Nebula](https://play.google.com/store/apps/details?id=com.zopcuk.nebula)
 
-<h1>Hi 👋, I'm Alperen</h1>
+- 🌱 I’m currently learning **Jetpack Compose**
 
-<p>A passionate android developer from Netherlands</p>
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=ozil.tech](https://play.google.com/store/apps/developer?id=ozil.tech)
 
-<h2>🛠 Skills</h2>
-<p>
+- 💬 Ask me about **anything you want**
 
-<a target="_blank" href="https://developer.android.com" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" />
-</a>
+- 📫 How to reach me **necdetalperen@yandex.com**
 
-
-<a target="_blank" href="https://kotlinlang.org" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" />
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ozil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/necdetalperenozil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necdetalperenozil" height="30" width="40" /></a>
+<a href="https://instagram.com/alperenozil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperenozil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alperenozil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alperenozil" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/alperenozil" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=alperenozil&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
-
-<h2>📪 Contact me</h2>
-<p>
-<a target="_blank" href="twitter.com/ozil" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
-</a>
-
-<a target="_blank" href="https://www.youtube.com/@alperenozil" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" />
-</a>
-
-<a target="_blank" href="linkedin.com/in/necdetalperenozil" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a>
-
-<a target="_blank" href="instagram.com/alperenozil" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-</a>
-
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
