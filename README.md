@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=ozil.tech](https://play.google.com/store/apps/developer?id=ozil.tech)
+- 👨🏽‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=ozil.tech](https://play.google.com/store/apps/developer?id=ozil.tech)
 
 - 💬 Ask me about **anything you want**
 
