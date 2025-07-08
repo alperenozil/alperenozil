@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏽‍♂️, I'm Alperen</h1>
-<h3 align="center">A passionate android developer from Netherlands</h3>
+<h3 align="center">A passionate android developer from Turkiye</h3>
 
 - 🔭 I’m currently working on [Nebula](https://play.google.com/store/apps/details?id=com.zopcuk.nebula)
 
